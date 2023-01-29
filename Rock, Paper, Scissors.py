@@ -49,7 +49,3 @@ else:
         print("User win!")
     elif comp_choose == user_chose:
         print("It's a draw")
-
-
-
-
